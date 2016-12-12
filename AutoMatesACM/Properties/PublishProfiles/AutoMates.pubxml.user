@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFz7asCMfOU2F/nFZReZbBgAAAAACAAAAAAAQZgAAAAEAACAAAADGMI6/2FA9CUC8Wapmfgp+CaA/AC3v/eMaUr9JS9cUDgAAAAAOgAAAAAIAACAAAADWK8vlx2lfUa8nxO6NvU4iPNblIxnRsl0XAQXZcWPN4iAAAADGXgWvBe/raQZZr5YhKbeBuvx4i7g9smqspIA61cjQjUAAAACCYxCwZdHOWsBpTr1NMJ8+pITPWqZFzl1dmpk9b8gfBOGkV58/AUDQkOZF486ZnBAEPVkthpaPPgqI8L5O/+XM</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.Smarterasp.net/site1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>10/14/2016 13:20:53</publishTime>
+    </File>
+    <File Include="assets/2header-bg.jpg">
+      <publishTime>11/30/2016 16:15:51</publishTime>
+    </File>
+    <File Include="assets/about.png">
+      <publishTime>10/17/2016 11:31:12</publishTime>
+    </File>
+    <File Include="assets/about_bg.jpg">
+      <publishTime>10/14/2016 15:44:30</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon-114x114.png">
+      <publishTime>12/05/2015 03:33:21</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon-72x72.png">
+      <publishTime>12/05/2015 03:33:53</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon.png">
+      <publishTime>12/05/2015 03:34:16</publishTime>
+    </File>
+    <File Include="assets/contact-bg.jpg">
+      <publishTime>11/30/2016 13:20:43</publishTime>
+    </File>
+    <File Include="assets/echipamente.png">
+      <publishTime>12/09/2016 11:04:21</publishTime>
+    </File>
+    <File Include="assets/favicon.ico">
+      <publishTime>12/05/2015 03:35:54</publishTime>
+    </File>
+    <File Include="assets/header-bg-white.jpg">
+      <publishTime>12/09/2016 11:15:00</publishTime>
+    </File>
+    <File Include="assets/header-bg-white.png">
+      <publishTime>12/09/2016 11:14:06</publishTime>
+    </File>
+    <File Include="assets/header-bg.jpg">
+      <publishTime>11/30/2016 13:17:59</publishTime>
+    </File>
+    <File Include="assets/header-bg.png">
+      <publishTime>10/14/2016 15:14:58</publishTime>
+    </File>
+    <File Include="assets/header-bg2.png">
+      <publishTime>12/05/2015 03:11:24</publishTime>
+    </File>
+    <File Include="assets/header-bgo.jpg">
+      <publishTime>07/24/2015 10:16:26</publishTime>
+    </File>
+    <File Include="assets/idea1.jpg">
+      <publishTime>12/05/2015 01:46:30</publishTime>
+    </File>
+    <File Include="assets/imac.png">
+      <publishTime>10/18/2013 19:27:24</publishTime>
+    </File>
+    <File Include="assets/loader.gif">
+      <publishTime>07/24/2015 10:16:26</publishTime>
+    </File>
+    <File Include="assets/login_bg.jpg">
+      <publishTime>12/05/2015 19:06:45</publishTime>
+    </File>
+    <File Include="assets/logo.png">
+      <publishTime>10/17/2016 11:31:12</publishTime>
+    </File>
+    <File Include="assets/logoAutoMates.jpg">
+      <publishTime>11/30/2016 16:16:33</publishTime>
+    </File>
+    <File Include="assets/logoAutoMates.png">
+      <publishTime>09/12/2016 14:15:50</publishTime>
+    </File>
+    <File Include="assets/logoAutoMatesGRI.png">
+      <publishTime>10/17/2016 13:59:43</publishTime>
+    </File>
+    <File Include="assets/logoTREIF.png">
+      <publishTime>12/09/2016 10:56:27</publishTime>
+    </File>
+    <File Include="assets/preloader.gif">
+      <publishTime>07/24/2015 10:16:26</publishTime>
+    </File>
+    <File Include="assets/projects/amazon-logo.png">
+      <publishTime>11/02/2013 17:00:42</publishTime>
+    </File>
+    <File Include="assets/projects/CASAN200.png">
+      <publishTime>11/30/2016 16:14:28</publishTime>
+    </File>
+    <File Include="assets/projects/cutit_disc.png">
+      <publishTime>09/12/2016 13:36:37</publishTime>
+    </File>
+    <File Include="assets/projects/DIVIDER_660.png">
+      <publishTime>11/30/2016 16:18:03</publishTime>
+    </File>
+    <File Include="assets/projects/Divider_660_Ansicht_1.png">
+      <publishTime>11/30/2016 16:21:16</publishTime>
+    </File>
+    <File Include="assets/projects/FALCON_hybrid_ret_M_RGB.png">
+      <publishTime>11/30/2016 16:26:41</publishTime>
+    </File>
+    <File Include="assets/projects/google-logo.png">
+      <publishTime>11/02/2013 16:47:58</publishTime>
+    </File>
+    <File Include="assets/projects/icons1.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/icons2.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/icons2_540x310.jpg">
+      <publishTime>11/01/2013 23:09:10</publishTime>
+    </File>
+    <File Include="assets/projects/Insert v1.png">
+      <publishTime>10/17/2016 12:46:00</publishTime>
+    </File>
+    <File Include="assets/projects/insert-2.2-feliate-alb.png">
+      <publishTime>11/30/2016 16:39:51</publishTime>
+    </File>
+    <File Include="assets/projects/insert-2.2-feliate-negru.png">
+      <publishTime>11/30/2016 16:34:53</publishTime>
+    </File>
+    <File Include="assets/projects/Insert1.png">
+      <publishTime>10/31/2016 10:29:46</publishTime>
+    </File>
+    <File Include="assets/projects/Insert2.png">
+      <publishTime>10/31/2016 10:30:18</publishTime>
+    </File>
+    <File Include="assets/projects/Insert3.png">
+      <publishTime>10/31/2016 10:30:42</publishTime>
+    </File>
+    <File Include="assets/projects/Insert4.png">
+      <publishTime>10/31/2016 10:31:06</publishTime>
+    </File>
+    <File Include="assets/projects/Insert5.png">
+      <publishTime>10/31/2016 10:31:28</publishTime>
+    </File>
+    <File Include="assets/projects/Insert6.png">
+      <publishTime>10/31/2016 10:31:52</publishTime>
+    </File>
+    <File Include="assets/projects/Insert7.png">
+      <publishTime>10/31/2016 10:32:12</publishTime>
+    </File>
+    <File Include="assets/projects/microsoft-logo.png">
+      <publishTime>11/02/2013 16:45:44</publishTime>
+    </File>
+    <File Include="assets/projects/poze/amazon-logo.png">
+      <publishTime>11/02/2013 17:00:42</publishTime>
+    </File>
+    <File Include="assets/projects/poze/CASAN200.jpg">
+      <publishTime>11/30/2016 10:48:36</publishTime>
+    </File>
+    <File Include="assets/projects/poze/DIVIDER_660+_alone.jpg">
+      <publishTime>11/30/2016 10:48:52</publishTime>
+    </File>
+    <File Include="assets/projects/poze/Divider_660+_Ansicht_1.jpg">
+      <publishTime>11/30/2016 10:51:21</publishTime>
+    </File>
+    <File Include="assets/projects/poze/FALCON_hybrid_ret_M_RGB.jpg">
+      <publishTime>11/30/2016 10:48:19</publishTime>
+    </File>
+    <File Include="assets/projects/poze/google-logo.png">
+      <publishTime>11/02/2013 16:47:58</publishTime>
+    </File>
+    <File Include="assets/projects/poze/icons1.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/icons2.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/icons2_540x310.jpg">
+      <publishTime>11/01/2013 23:09:10</publishTime>
+    </File>
+    <File Include="assets/projects/poze/insert 2.2 feliate negru.png">
+      <publishTime>11/30/2016 10:19:06</publishTime>
+    </File>
+    <File Include="assets/projects/poze/insert 2.2 feliate.png">
+      <publishTime>11/30/2016 10:17:12</publishTime>
+    </File>
+    <File Include="assets/projects/poze/microsoft-logo.png">
+      <publishTime>11/02/2013 16:45:44</publishTime>
+    </File>
+    <File Include="assets/projects/poze/projects.rar">
+      <publishTime>12/09/2016 10:42:33</publishTime>
+    </File>
+    <File Include="assets/projects/poze/ui1.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/ui1_540x310.jpg">
+      <publishTime>11/01/2013 23:05:36</publishTime>
+    </File>
+    <File Include="assets/projects/poze/ui3.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/ui3_540x310.jpg">
+      <publishTime>11/01/2013 23:06:20</publishTime>
+    </File>
+    <File Include="assets/projects/poze/webdesign1.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/webdesign2.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/webdesign4.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/webdesign5.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/webdesign6.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/poze/Übersicht_VARIUS.jpg">
+      <publishTime>11/30/2016 10:50:12</publishTime>
+    </File>
+    <File Include="assets/projects/projects/CASAN200.png">
+      <publishTime>11/30/2016 16:14:28</publishTime>
+    </File>
+    <File Include="assets/projects/projects/cutit_disc.jpg">
+      <publishTime>12/09/2016 12:42:01</publishTime>
+    </File>
+    <File Include="assets/projects/projects/DIVIDER_660+_alone.png">
+      <publishTime>11/30/2016 16:18:03</publishTime>
+    </File>
+    <File Include="assets/projects/projects/Divider_660+_Ansicht_1.png">
+      <publishTime>11/30/2016 16:21:16</publishTime>
+    </File>
+    <File Include="assets/projects/projects/FALCON_hybrid_ret_M_RGB.png">
+      <publishTime>11/30/2016 16:26:41</publishTime>
+    </File>
+    <File Include="assets/projects/projects/insert-2.2-feliate-alb.png">
+      <publishTime>11/30/2016 16:39:51</publishTime>
+    </File>
+    <File Include="assets/projects/projects/insert-2.2-feliate-negru.png">
+      <publishTime>11/30/2016 16:34:53</publishTime>
+    </File>
+    <File Include="assets/projects/projects/Treif-logo1.png">
+      <publishTime>11/30/2016 16:45:51</publishTime>
+    </File>
+    <File Include="assets/projects/projects/Übersicht_VARIUS.png">
+      <publishTime>11/30/2016 16:28:23</publishTime>
+    </File>
+    <File Include="assets/projects/Treif-logo.png">
+      <publishTime>11/30/2016 16:45:51</publishTime>
+    </File>
+    <File Include="assets/projects/Ubersicht_VARIUS.png">
+      <publishTime>11/30/2016 16:28:23</publishTime>
+    </File>
+    <File Include="assets/projects/ui1.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/ui1_540x310.jpg">
+      <publishTime>11/01/2013 23:05:36</publishTime>
+    </File>
+    <File Include="assets/projects/ui3.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/ui3_540x310.jpg">
+      <publishTime>11/01/2013 23:06:20</publishTime>
+    </File>
+    <File Include="assets/projects/webdesign1.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/webdesign2.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/webdesign4.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/webdesign5.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="assets/projects/webdesign6.jpg">
+      <publishTime>11/01/2013 23:52:14</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>10/14/2016 13:20:53</publishTime>
+    </File>
+    <File Include="bin/AutoMatesACM.dll">
+      <publishTime>12/09/2016 14:49:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>07/12/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/03/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/03/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>09/03/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>10/03/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/03/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>09/03/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>12/09/2016 11:29:46</publishTime>
+    </File>
+    <File Include="css/designr-theme-cyan2.css">
+      <publishTime>12/09/2016 11:39:53</publishTime>
+    </File>
+    <File Include="css/flexslider.css">
+      <publishTime>10/14/2016 13:49:12</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>07/24/2015 10:16:28</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfontd41d.eot">
+      <publishTime>07/24/2015 10:16:29</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfonte0a5-2.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfonte0a5.eot">
+      <publishTime>07/24/2015 10:16:29</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfonte0a5.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfonte0a5.svg">
+      <publishTime>07/24/2015 10:16:29</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfonte0a5.ttf">
+      <publishTime>07/24/2015 10:16:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-2.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-3.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-4.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-5.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regulard41d.html">
+      <publishTime>12/05/2015 00:59:44</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>12/09/2016 14:48:31</publishTime>
+    </File>
+    <File Include="js/Backup/contact.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/designr.js">
+      <publishTime>12/09/2016 11:15:14</publishTime>
+    </File>
+    <File Include="js/Backup/jquery.backstretch.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/jquery.easypiechart.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/jquery.flexslider.min.js">
+      <publishTime>12/05/2015 04:23:32</publishTime>
+    </File>
+    <File Include="js/Backup/jquery.masonry.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/jquery.scrollto.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/owl.carousel.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/twitterFetcher_v10_min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/Backup/waypoints.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>12/05/2015 23:38:24</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>12/05/2015 23:38:24</publishTime>
+    </File>
+    <File Include="js/contact.js">
+      <publishTime>04/17/2015 19:33:14</publishTime>
+    </File>
+    <File Include="js/designr.js">
+      <publishTime>12/09/2016 11:15:36</publishTime>
+    </File>
+    <File Include="js/jquery.backstretch.min.js">
+      <publishTime>04/17/2015 20:43:08</publishTime>
+    </File>
+    <File Include="js/jquery.easypiechart.min.js">
+      <publishTime>01/12/2015 22:09:48</publishTime>
+    </File>
+    <File Include="js/jquery.flexslider.min.js">
+      <publishTime>10/30/2013 15:32:20</publishTime>
+    </File>
+    <File Include="js/jquery.masonry.min.js">
+      <publishTime>01/17/2013 04:03:16</publishTime>
+    </File>
+    <File Include="js/jquery.scrollto.js">
+      <publishTime>09/30/2013 19:52:56</publishTime>
+    </File>
+    <File Include="js/libs/bootstrap.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/libs/jquery-1.9.1.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/libs/modernizr.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/npm.js">
+      <publishTime>12/05/2015 23:38:27</publishTime>
+    </File>
+    <File Include="js/owl.carousel.min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/style-switcher.js">
+      <publishTime>04/25/2015 21:25:10</publishTime>
+    </File>
+    <File Include="js/twitterFetcher_min.js">
+      <publishTime>03/04/2016 00:19:14</publishTime>
+    </File>
+    <File Include="js/twitterFetcher_v10_min.js">
+      <publishTime>07/24/2015 10:16:30</publishTime>
+    </File>
+    <File Include="js/waypoints.min.js">
+      <publishTime>08/05/2013 04:12:36</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/14/2016 13:20:53</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/09/2016 14:50:01</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>10/14/2016 13:20:53</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>10/14/2016 13:20:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/17/2016 14:16:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

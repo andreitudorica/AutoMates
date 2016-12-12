@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFz7asCMfOU2F/nFZReZbBgAAAAACAAAAAAAQZgAAAAEAACAAAACvOLIOaZjwtetmZ+kawVh6WTyQye1fyA9sqfoXHcoqLwAAAAAOgAAAAAIAACAAAADqNDy/6KkZdTm3jeU9bALQhyGKgd+ef7/n4QnZcl9V7yAAAADoVt312E2xymRGnAD76I43mLufPc3XRcWPUl4XTp0ILEAAAAAxMb2ATFu99AvZ/PyfCTyswuzefs0jbLIdt0HH+x13JCeph2YQNzO7Iiug1OnIYzFTOuYOEyDR4WwGKmfGVspN</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.Smarterasp.net/site1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>10/21/2016 13:02:12</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>10/21/2016 13:02:12</publishTime>
+    </File>
+    <File Include="bin/AutoMatesComingSoon.dll">
+      <publishTime>10/21/2016 13:44:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>06/06/2016 15:40:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/06/2016 10:45:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/06/2016 10:42:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/21/2012 14:05:00</publishTime>
+    </File>
+    <File Include="flash/avenir.swf">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="flash/museo.swf">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="flash/Options.as">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="flash/sIFR.as">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="flash/sifr.fla">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="flash/SifrStyleSheet.as">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/bg.gif">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/box.gif">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/f.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/field.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/formbg.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/l.gif">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/line.gif">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/line.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/logoAutoMates.png">
+      <publishTime>10/17/2016 13:59:55</publishTime>
+    </File>
+    <File Include="images/main.gif">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/mid_bg.jpg">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/mid_bg.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/shadow.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/submit.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="images/t.png">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>10/21/2016 13:32:08</publishTime>
+    </File>
+    <File Include="js/Adobe_Caslon_Pro_600.font.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/Avenir_Next_LT_Pro_700.font.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/cufon-yui.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/sifr-config.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/sifr-debug.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/sifr.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/source/sifr.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="js/swfobject.js">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/21/2016 13:02:12</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.19-build00125.js">
+      <publishTime>10/21/2016 13:02:12</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.19-build00125.min.js">
+      <publishTime>10/21/2016 13:02:12</publishTime>
+    </File>
+    <File Include="tools/960.css">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="tools/sifr.css">
+      <publishTime>05/17/2010 00:00:00</publishTime>
+    </File>
+    <File Include="tools/style.css">
+      <publishTime>10/21/2016 14:20:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/21/2016 13:44:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
